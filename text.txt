@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 week1 ma thoi
+=======
+main and week1
+>>>>>>> main
